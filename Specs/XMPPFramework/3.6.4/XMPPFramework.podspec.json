@@ -16,7 +16,7 @@
   },
   "source": {
     "git": "https://github.com/robbiehanson/XMPPFramework.git",
-    "tag": "3.6.4"
+    "commit": "cfb0e4d72eccbad5cb34eff83c3286cd28fda94c"
   },
   "resources": [
     "**/*.{xcdatamodel,xcdatamodeld}"
