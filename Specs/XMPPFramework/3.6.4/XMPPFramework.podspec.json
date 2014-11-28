@@ -51,9 +51,6 @@
       },
       "ios": {
         "dependencies": {
-          "XMPPFramework/KissXML": [
-
-          ]
         }
       }
     },
