@@ -42,15 +42,6 @@
         "LIBRARY_SEARCH_PATHS": "\"$(PODS_ROOT)/XMPPFramework/Vendor/libidn\""
       },
       "dependencies": {
-        "XMPPFramework/Authentication": [
-
-        ],
-        "XMPPFramework/Categories": [
-
-        ],
-        "XMPPFramework/Utilities": [
-
-        ],
         "CocoaLumberjack": [
           "~>1.6.2"
         ],
